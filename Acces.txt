@@ -1,0 +1,9 @@
+L'adresse sereveur se change chaque jour 
+jour de mise à jour 26/01/2016   
+
+accès Serveur à l'adresse 
+http://192.168.137.107/Agenda
+
+
+Adresse à la base de donnée 
+http://192.168.137.107/phpmyadmin
